@@ -4,6 +4,6 @@ graph TD;
   id2 -->|hemta indexsidan| id3[Webbläsaren]
   id3 --- id4[Knapptryck]
   id4 -->|GET /Tasks| id5{{Server}}
-  id5 -->|res json(Tasks)| id6{{DOMman.js}}
-  
+  id5 ---|kör funktion| id6{{DOMman.js}}
+  id6 -->|Ändra DOM med information| id3
 ```
