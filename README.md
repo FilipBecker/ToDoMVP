@@ -1,4 +1,5 @@
 # ToDoMVP
-Fixat grundfilerna med express
-behöver koppla till github repo
-fixa mermaid skema
+Fixat grundfilerna med express  
+behöver koppla till github repo (Done)  
+fixa mermaid skema  
+
